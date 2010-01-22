@@ -1,0 +1,8 @@
+category: Python
+requires: python
+sdesc: "Python HTML templating engine"
+ldesc: "The purpose of the templating engine is to provide web 
+application developers, who need to separate the program code and the 
+design (HTML code) of their web application projects, with a templating 
+tool that can easily be used by cooperating webdesigners with no 
+programming skills."

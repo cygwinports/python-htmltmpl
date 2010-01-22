@@ -1,0 +1,5 @@
+inherit distutils
+
+
+
+SRC_URI="mirror://sourceforge/htmltmpl/${ORIG_PN}-${PV}.tar.gz"

@@ -1,0 +1,13 @@
+inherit distutils
+
+NAME="python-htmltmpl"
+VERSION=1.22
+RELEASE=3
+CATEGORY="Python"
+SUMMARY="Python HTML templating engine"
+DESCRIPTION="The purpose of the templating engine is to provide web application
+developers, who need to separate the program code and the design (HTML code) of
+their web application projects, with a templating tool that can easily be used
+by cooperating webdesigners with no programming skills."
+HOMEPAGE="http://htmltmpl.sourceforge.net/"
+SRC_URI="mirror://sourceforge/htmltmpl/${ORIG_PN}-${PV}.tar.gz"
